@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="800" version="1.1" viewBox="0 0 800.00001 800.00001" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x1="391.39" x2="108.73" y1="415.02" y2="697.68" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0 -252.36)" fill-rule="evenodd" shape-rendering="auto">
+  <circle cx="400" cy="652.36" r="400" color="#000000" color-rendering="auto" fill="#28B9B5" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
+  <path transform="translate(0 252.36)" d="m257.86 210l-255.4 230.31a400 400 0 0 0 356.91 357.59l230.63-255.75-140.93-140.94 140.93-143.35-47.857-47.857-143.35 140.93-140.94-140.93z" color="#000000" color-rendering="auto" fill="url(#a)" image-rendering="auto" opacity=".42" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
+  <path d="m257.86 462.36-47.857 47.857 142.14 142.14-142.14 142.14 47.857 47.857 142.14-142.14 142.14 142.14 47.857-47.857-142.14-142.14 142.14-142.14-47.857-47.857-142.14 142.14-142.14-142.14z" color="#000000" color-rendering="auto" fill="#fff" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
+ </g>
+</svg>
